@@ -1,0 +1,8 @@
+node_modules/
+.sugar/
+logs/
+mesh-bundle/
+aigency-analysis/
+package.json
+pnpm-lock.yaml
+.DS_Store
